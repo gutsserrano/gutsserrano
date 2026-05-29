@@ -1,7 +1,7 @@
 # Hi there , I'm Augusto👋
 
-- 🔭 I’m currently working on 5by5 Softwares Solutions
-- 🌱 I’m currently studying in IFSP (Federal Institute of São Paulo)
+- 🔭 I’m currently working on Amdocs
+- 🌱 I hold a degree in IFSP (Federal Institute of São Paulo)
 - 🎹 Fun fact: I'm a keyboardist in a university band
 
 ##
